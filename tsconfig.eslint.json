@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "**/*.js",
+    "**/*.ts",
+    "**/*.tsx",
+    "babel.config.js",
+    "metro.config.js",
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ]
+}
